@@ -131,4 +131,4 @@ A research-oriented platform enabling molecule visualization and AI-based proper
 - GitHub: https://github.com/V-Manish-Kumar  
 - Portfolio: https://portfolio-gray-phi-83.vercel.app  
 - Email: manishedu980@gmail.com  
-- LinkedIn: linkedin.com/in/v-manish-kumar
+- LinkedIn: https://linkedin.com/in/v-manish-kumar
