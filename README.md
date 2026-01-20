@@ -103,7 +103,7 @@ https://github.com/V-Manish-Kumar/AIOps-platform
 A real-time collaboration platform featuring chat, video calls, task management, file sharing, and an AI assistant.
 
 Repository:  
-https://github.com/V-Manish-Kumar/AIOps-platform
+https://github.com/V-Manish-Kumar/Team-connect
 
 ---
 
@@ -117,6 +117,9 @@ https://github.com/V-Manish-Kumar/Rag_System
 
 ### AI-Based Drug Discovery Platform
 A research-oriented platform enabling molecule visualization and AI-based property prediction for healthcare and pharmaceutical analysis.
+
+Repository:
+https://github.com/V-Manish-Kumar/Accelerating-Drug-Discovery-using-AI
 
 ---
 
