@@ -119,7 +119,6 @@ https://github.com/V-Manish-Kumar/Rag_System
 A research-oriented platform enabling molecule visualization and AI-based property prediction for healthcare and pharmaceutical analysis.
 
 Repository:
-
 https://github.com/V-Manish-Kumar/Accelerating-Drug-Discovery-using-AI
 
 ---
