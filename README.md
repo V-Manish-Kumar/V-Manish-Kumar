@@ -102,6 +102,8 @@ https://github.com/V-Manish-Kumar/AIOps-platform
 ### Team Connect
 A real-time collaboration platform featuring chat, video calls, task management, file sharing, and an AI assistant.
 
+Repository:  
+https://github.com/V-Manish-Kumar/AIOps-platform
 ---
 
 ### RAG System
@@ -129,4 +131,4 @@ A research-oriented platform enabling molecule visualization and AI-based proper
 - GitHub: https://github.com/V-Manish-Kumar  
 - Portfolio: https://portfolio-gray-phi-83.vercel.app  
 - Email: manishedu980@gmail.com  
-- LinkedIn: linkedin.com/in/v-manish-kumar/
+- LinkedIn: linkedin.com/in/v-manish-kumar
