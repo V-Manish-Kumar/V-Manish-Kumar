@@ -125,9 +125,10 @@ https://github.com/V-Manish-Kumar/Accelerating-Drug-Discovery-using-AI
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V-Manish-Kumar&show_icons=true&hide_border=true&cache_seconds=1800)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V-Manish-Kumar&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Manish-Kumar&layout=compact&hide_border=true&cache_seconds=1800)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V-Manish-Kumar&theme=default)
+
 
 
 ---
