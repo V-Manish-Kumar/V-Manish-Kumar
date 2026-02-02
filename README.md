@@ -129,6 +129,9 @@ https://github.com/V-Manish-Kumar/Accelerating-Drug-Discovery-using-AI
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V-Manish-Kumar&theme=default)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=V-Manish-Kumar)
+
+
 
 
 ---
